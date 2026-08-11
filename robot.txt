@@ -1,0 +1,1 @@
+User-agent: * Allow: /   # Block sensitive and non-public URLs Disallow: /admin/ Disallow: /login/ Disallow: /dashboard/ Disallow: /api/   # Sitemap Location Sitemap: https://statusindex.com/sitemap.xml
