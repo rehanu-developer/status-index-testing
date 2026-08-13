@@ -1,9 +1,9 @@
 # Expert Google Knowledge Panel & Reputation Services | Status Index — Extracted Site
 
 > **Source:** https://statusindex.framer.website/
-> **Extracted:** August 10, 2026
+> **Extracted:** August 13, 2026
 > **Tool:** Framer Site Extractor Chrome Extension
-> **Total files downloaded:** 227
+> **Total files downloaded:** 229
 
 ---
 
